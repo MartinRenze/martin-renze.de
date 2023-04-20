@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://martin-renze.de'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'IT Security - Martin Renze'
 theme = 'netlify-basic'
