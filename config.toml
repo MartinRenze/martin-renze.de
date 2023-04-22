@@ -88,7 +88,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "IT Security - Martin Renze"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -102,17 +102,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
     custom = ''
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     # LoveIt NEW | 0.2.0 whether to show copyright info
-    copyright = true
+    copyright = false
     # LoveIt NEW | 0.2.0 whether to show the author
     author = true
     # Site creation time
-    since = 2019
+    since = 2023
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license = ''
 
   # LoveIt NEW | 0.2.0 Section (all posts) page config
   [params.section]
@@ -201,12 +201,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/MartinRenze"
-    Linkedin = "https://www.linkedin.com/in/martin-renze/"
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    GitHub = "MartinRenze"
+    Linkedin = "martin-renze/"
+    Twitter = ""
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -274,8 +274,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
-    RSS = true # LoveIt NEW | 0.2.0
+    Email = "info@martin-renze.de"
+    RSS = true
+    [params.social.Mastodon]
+      # weight when arranging icons (the greater the weight, the later the icon is positioned)
+      weight = 0
+      # your social ID
+      id = "@xxxx"
+      # prefix of your social link
+      prefix = "https://mastodon.social/"
+      # content hovering on the icon
+      title = "Mastodon"
+
 
   # LoveIt CHANGED | 0.2.0 Page global config
   [params.page]
