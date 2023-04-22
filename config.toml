@@ -1,4 +1,4 @@
 baseURL = 'https://martin-renze.de'
 languageCode = 'en-us'
 title = 'IT Security - Martin Renze'
-theme = 'netlify-basic'
+theme = 'LoveIt'
