@@ -355,7 +355,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
@@ -368,7 +368,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false
@@ -378,7 +378,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Mix = false
     # LoveIt CHANGED | 0.2.0 Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config
       [params.page.comment.disqus]
         # LoveIt NEW | 0.1.1
