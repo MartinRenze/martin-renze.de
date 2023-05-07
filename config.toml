@@ -24,6 +24,10 @@ enableEmoji = true
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
 # Author config
 [author]
   name = "Martin Renze"
