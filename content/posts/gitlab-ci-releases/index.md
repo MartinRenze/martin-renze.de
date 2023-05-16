@@ -2,6 +2,12 @@
 title: "GitLab CI-CD Releases with Build Artifacts"
 date: 2023-05-03T19:04:24+02:00
 draft: false
+resources:
+- name: "featured-image"
+  src: "releases-page.png"
+
+tags: ["GitLab", "CI/CD"]
+categories: ["Code Snippets"]
 ---
 
 GitLab CI/CD is an essential tool that allows developers to automate their software delivery process. It offers various features that facilitate the entire process, from building and testing to deploying and monitoring. In this article, we will focus on GitLab CI/CD Releases with build.
