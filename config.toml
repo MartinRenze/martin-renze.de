@@ -14,6 +14,9 @@ googleAnalytics = ""
 # copyright description used only for seo schema
 copyright = ""
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 # whether to use robots.txt
 enableRobotsTXT = true
 # whether to use git commit log
