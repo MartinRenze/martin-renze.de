@@ -95,3 +95,6 @@ You can find the full source code [on GitHub](https://github.com/MartinRenze/dif
 For questions or feature requests please fill in an issue: [Diff Website Changes Extension Support](https://github.com/MartinRenze/diff-website-changes-extension)
 
 <img src="https://vg04.met.vgwort.de/na/8e08a6738d194c4098adf4eeab1fe56e" width="1" height="1" alt="">
+
+<script data-goatcounter="https://martin-renze.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
