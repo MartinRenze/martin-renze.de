@@ -103,4 +103,7 @@ In summary, GitLab CI/CD Releases with build is a powerful tool that enables dev
 
 <img src="https://vg04.met.vgwort.de/na/a694a35d1b7546da8b513d8cf5681df7" width="1" height="1" alt="">
 
+<script data-goatcounter="https://martin-renze.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 ![releases page](releases-page.png)
