@@ -2,7 +2,9 @@
 title: "Run Drozer on WSL2 on Windows"
 date: 2024-01-30T19:04:24+02:00
 draft: false
-
+resources:
+- name: "featured-image"
+  src: "dozerandwsl.png"
 tags: ["Android", "Drozer", "WSL2", "Pentest"]
 categories: ["Mobile Pentesting"]
 ---
