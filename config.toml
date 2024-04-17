@@ -1,7 +1,7 @@
 baseURL = 'https://martin-renze.de'
 
 title = 'IT Security - Martin Renze'
-theme = 'LoveIt'
+theme = 'my-theme'
 
 languageCode = 'en-us'
 languageName = "English"
