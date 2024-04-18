@@ -1,7 +1,7 @@
 baseURL = 'https://martin-renze.de'
 
 title = 'IT Security - Martin Renze'
-theme = 'my-theme'
+theme = 'DoIt'
 
 languageCode = 'en-us'
 languageName = "English"
@@ -309,7 +309,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # LoveIt NEW | 0.2.0 whether to enable the fraction extended syntax
     fraction = true
     # LoveIt NEW | 0.2.0 whether to enable the fontawesome extended syntax
-    fontawesome = true
+    fontawesome = false
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     # LoveIt NEW | 0.2.4 whether to show the full text content in RSS
