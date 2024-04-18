@@ -51,7 +51,7 @@ The Chrome version uses a service worker for the background script and includes 
 
 ### Browser Object Compatibility
 
-```
+``` JavaScript
 if (typeof browser === "undefined") {
     var browser = browser || chrome;
 }
@@ -67,7 +67,7 @@ By using this code, you can write code that is compatible with both Firefox and 
 
 ### Import (Third-Party) Libraries
 Firefox Import
-```
+``` JavaScript
 // import htmldiff library
 var script = document.createElement("script");
 script.src = "scripts/htmldiff.min.js";
@@ -75,7 +75,7 @@ document.head.appendChild(script);
 ```
 
 Chrome Import
-```
+``` JavaScript
 // import htmldiff library
 import "./scripts/htmldiff.min.js";
 ```
