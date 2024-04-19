@@ -8,9 +8,13 @@ resources:
 
 tags: ["GitLab", "CI/CD"]
 categories: ["Code Snippets"]
+description: "GitLab CI/CD is an essential tool that allows developers to automate their software delivery process. It offers various features that facilitate the entire process, from building and testing to deploying and monitoring. In this article, we will focus on GitLab CI/CD Releases with build."
+toc: false
 ---
 
 GitLab CI/CD is an essential tool that allows developers to automate their software delivery process. It offers various features that facilitate the entire process, from building and testing to deploying and monitoring. In this article, we will focus on GitLab CI/CD Releases with build.
+
+<!--more-->
 
 To begin with, let's consider a minimal example of creating a new GitLab project that consists of three files: fileconc1.txt, fileconc2.txt, and .gitlab-ci.yml. The objective of this project is to concatenate the contents of the two text files and create a downloadable release.
 

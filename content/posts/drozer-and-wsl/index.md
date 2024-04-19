@@ -7,7 +7,14 @@ resources:
   src: "dozerandwsl.png"
 tags: ["Android", "Drozer", "WSL2", "Pentest"]
 categories: ["Mobile Pentesting"]
+toc: false
+description: "Discover how to run Drozer, a powerful Android security testing framework, on Windows using WSL2 and Docker. Follow my step-by-step guide to set up the environment and configure Drozer for seamless security assessments of Android applications and devices."
+
 ---
+
+Discover how to run Drozer, a powerful Android security testing framework, on Windows using WSL2 and Docker. Follow my step-by-step guide to set up the environment and configure Drozer for seamless security assessments of Android applications and devices.
+
+<!--more-->
 
 ## Run Drozer on Windows on WSL2 with the Docker image
 

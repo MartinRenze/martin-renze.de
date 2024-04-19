@@ -5,10 +5,15 @@ draft: false
 resources:
 - name: "featured-image"
   src: "diff-website-changes.png"
-
 tags: ["JavaScript", "Automation"]
 categories: ["Browser Extensions"]
+description: "Learn to track website changes effortlessly with the Diff Website Changes extension for Chrome and Firefox. Customize domains and elements to monitor, and easily compare versions to spot differences. Plus, get development insights and support resources for smooth setup."
+
 ---
+
+Learn to track website changes effortlessly with the "Diff Website Changes" extension for Chrome and Firefox. Customize domains and elements to monitor, and easily compare versions to spot differences. Plus, get development insights and support resources for smooth setup.
+
+<!--more-->
 
 ## Diff Website Changes Guide
 
