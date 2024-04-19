@@ -12,7 +12,7 @@ categories: ["Mobile Pentesting"]
 ## Run Drozer on Windows on WSL2 with the Docker image
 
 On Windows:
-```
+``` cmd
 adb kill-server
 adb -a nodaemon server start
 ```
@@ -22,10 +22,10 @@ Modify the firewall rule for `adb.exe` when prompted by the Windows Defender Fir
 Get the `<WINDOWS-IP>` IP from the `/etc/resolv.conf` in WSL. If this does not work, get the IP of the Windows network adapter called `vEthernet (WSL)` (Control Panel\Network and Internet\Network Connections).
 
 On Linux:
-```
+``` bash
 socat -d -d TCP-LISTEN:5037,reuseaddr,fork TCP:<WINDOWS-IP>:5037
 ```
-```
+``` bash
 adb forward tcp:31415 tcp:31415
 sudo docker run --net host -it withsecurelabs/drozer console connect --server <WINDOWS-IP>
 ```
